@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#containerImagem {
+    margin-top: 20px;
+    min-height: 300px;
+}
+
+#imagem-principal {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.oculto {
+    display: none;
+}
+
+#textoBelly {
+    display: none;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3246ff;
+}
